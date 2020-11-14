@@ -5,7 +5,7 @@
 # Integrantes:
   - Isaac Mauricio Ehuan Avila
   - Maria Belen Couoh Chan
-  -Jorge 
+  - Jorge 
   -
   -
   
