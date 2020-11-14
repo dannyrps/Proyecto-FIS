@@ -10,7 +10,7 @@
   -
   
 # Propósito:
-Crear una página web que funcione como un sistema de información, el cual redactará acerca de las diferentes licencias que se imparten en la facultad de matemáticas de la Universidad Autónoma de Yucatán, así como las diversas organizaciones, como sus actividades de estas, que se encuentran dentro de la facultad.
+Crear una página web que funcione como un sistema de información, el cual redactará acerca de las diferentes licenciaturas que se imparten en la facultad de matemáticas de la Universidad Autónoma de Yucatán, así como las diversas organizaciones, como sus actividades de estas, que se encuentran dentro de la facultad.
 
 # Objetivos:
   • Satisfacer la búsqueda de información de los estudiantes que estén interesados en la Facultad de Matemáticas de una manera más clara y con un lenguaje más coloquial para un mejor entendimiento de lo que consisten cada carrera.
