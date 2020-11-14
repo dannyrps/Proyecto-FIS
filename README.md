@@ -3,11 +3,11 @@
 
 
 # Integrantes:
-  - Isaac Mauricio Ehuan Avila
-  - Maria Belen Couoh Chan
-  - Jorge Miguel Baas Cab
-  - Daniela Regina Pérez Sauza
-  -
+  - Baas Cab Jorge Miguel 
+  - Couoh Chan Maria Belen 
+  - Ehuan Avila Isaac Mauricio 
+  - Perera Huchim Oscar 
+  - Pérez Sauza Daniela Regina
   
 # Propósito:
 Crear una página web que funcione como un sistema de información, el cual redactará acerca de las diferentes licenciaturas que se imparten en la facultad de matemáticas de la Universidad Autónoma de Yucatán, así como las diversas organizaciones, como sus actividades de estas, que se encuentran dentro de la facultad.
