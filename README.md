@@ -6,7 +6,7 @@
   - Isaac Mauricio Ehuan Avila
   - Maria Belen Couoh Chan
   - Jorge Miguel Baas Cab
-  -
+  - Daniela Regina Pérez Sauza
   -
   
 # Propósito:
