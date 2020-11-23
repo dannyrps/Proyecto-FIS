@@ -23,7 +23,8 @@ Crear una página web que funcione como un sistema de información, el cual reda
 Especialmente va dirigido a jóvenes interesados en ingresar al FMAT y los alumnos que desean hacer un cambio de carrera que se encuentre en la misma facultad, que están en búsqueda de información sobre las carreas y actividades que esta facultad ofrece.
 
 # Elementos innovadores:
-El elemento que hace de este proyecto innovador se basa en a forma de prsentar las carreras del FMAT, ya que estas se presentarán de una forma simple y dinámica, es decir, usando un lenguaje menos técnico y siendo lo más breve posible. 
+El elemento que hace de este proyecto innovador se basa en a forma de presentar las carreras del FMAT, ya que, estas se presentarán de una forma simple y dinámica, es decir, usando un lenguaje menos técnico y siendo lo más breve posible. 
+
 Otro elemento a tomar en cuenta es que se exprondrán las organizaciones principales con las que cuenta la facultad, de este modo captar aun más la atención del lector.
 
 # Requerimientos:
