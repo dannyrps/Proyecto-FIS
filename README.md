@@ -15,12 +15,6 @@ Crear una página web que funcione como un sistema de información, el cual reda
 # Público al que se dirige:
 Especialmente va dirigido a jóvenes interesados en ingresar al FMAT y los alumnos que desean hacer un cambio de carrera que se encuentre en la misma facultad, que están en búsqueda de información sobre las carreas y actividades que esta facultad ofrece.
 
-# Requerimientos:
-Requerimientos de usuario:
-Requerimientos de sistema:
-  Funcionales:
-  No Funcionales:
-
 # Roles:
   - 
   -
