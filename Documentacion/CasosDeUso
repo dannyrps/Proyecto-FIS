@@ -1,0 +1,46 @@
+# Caso de Uso
+
+## CU01: Saber cómo formar parte de alguna de las organizaciones
+**1.	Descripción**
+
+Cada carrera y organización contará con una sección individual para que el usuario pueda diferenciar la información de una carrera u organización de la información de otra.
+
+**2.	Actores**
+
+Aspirantes seleccionados y alumnos de la UADY.
+
+**3.	Pre-condiciones**
+
+Los aspirantes seleccionados y alumnos de la UADY deberán ingresar a la página principal de la página web.
+
+**4.	Post-condiciones**
+
+Presentar la información de la carrera seleccionada.
+
+**5.	Flujo de eventos**
+
+*5.1 Flujo principal*
+
+P1. Inicia cuando el aspirante o alumno ingresa a la página.
+
+P2. El sistema presenta al alumno organizaciones que ofrece la UADY en el área de informática y computación. Las organizaciones presentadas son:
+
+  - Sociedad de alumnos
+
+  - Consejo Estudiantil
+
+  -	Workshop
+
+P3. El alumno selecciona la organización de su interés.
+
+P4. El sistema mostrará los apartados correspondientes. Estos apartados son:
+
+  -	Descripción
+
+  -	Actividades 
+
+  -	Cómo Pertenecer a la organización
+
+P5. El alumno selecciona el apartado de su interés.
+
+P6. El sistema le presentará la información correspondiente.
