@@ -1,0 +1,28 @@
+***
+# Historias de Usuario
+**Historia 1**- Interfaz **Como:** Usuario **Quiero:**Interfaz **Para:** Que no me aburra y que sea llamativo
+  Condiciones:
+  -Se usa una gama de colores armónico
+  -Que sea intuitivo
+  -La cantidad de texto sea justa para que no haya exceso de información
+**Historia 2**- Area Disciplinar **Como:** Usuario **Quiero:**Información **Para:** Conocer acerca sobre las áreas disciplinares que se encuentran dentro de las distintas carreras de la Facultad de Matemáticas
+  Condiciones:
+  -Se quiera saber cuales son las distintas áreas disciplinares
+  -Exponer los principales temas de cada área disciplinar
+**Historia 3**- Campo Laboral **Como:** Usuario **Quiero:**Información **Para:** Saber cuál es el perfi de egreso y el campo laboral 
+  Condiciones:
+  -Se quiere dar a conocer algunas empresas las cuales están relacionadas con el campo laboral
+  -Se quiere saber las distintintas carácterísticas del perfil de 
+**Historia 4**- Descripción de Organización **Como:** Usuario **Quiero:**Información **Para:** Conocer cómo son las organizaciones, es decir, una desscripción de ellas
+  Condiciones:
+  -Se quiere dar una descripción breve de la organización
+  -Se quiere saber sus objetivos como organización
+  -Se quiere saber algún representante o representantes de esta
+**Historia 5**- Actividades **Como:** Usuario **Quiero:**Información **Para:** Saber cómo y cuales son las actividades más comúnes de las distintas organizaciones
+  Condiciones:
+  -Se quieren saber las actividades más importantes de cada organización
+  -Se quiere saber las fechas aproximadas y cómo son
+**Historia 6**- Integrarse a una Organización **Como:** Usuario **Quiero:**Información **Para:** Saber cuál es el proceso para poder integrarse a cualquiera de las organizaciones
+  Condiciones:
+  -Se quiere saber si tiene algún tipo de costo monetario
+  -Se quiere saber si se necesita algún tipo de perfil como aspirante a entrar a dicha organización
