@@ -1,7 +1,7 @@
 # Caso de Uso
-
+ 
 ## CU01: Saber cómo formar parte de alguna de las organizaciones
-**1.	Descripción**
+**1. Descripción**
 
 Cada carrera y organización contará con una sección individual para que el usuario pueda diferenciar la información de una carrera u organización de la información de otra.
 
@@ -17,7 +17,7 @@ Los aspirantes seleccionados y alumnos de la UADY deberán ingresar a la página
 
 Presentar la información de la carrera seleccionada.
 
-**5.	Flujo de eventos**
+**5. Flujo de eventos**
 
 *5.1 Flujo principal*
 
