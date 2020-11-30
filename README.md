@@ -1,4 +1,4 @@
-# **Webeado**
+# **InformaWeb**
 "Sistema de información" (página web informativa) 
 
 
