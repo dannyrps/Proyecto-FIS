@@ -6,9 +6,24 @@ El proceso de métrica de contribución será de un 100% entre todos para cada e
 
 - La primera pauta de la métrica hace referencia al número de responsabilidades que se les dió a cada integrante.
 - La segunda pauta trata sobre el número de tareas que se hizo cada integrante.
-- La tercera pauta es medible gracias a GitHub en la que nosotros podemos ver la cantidad de commits y líneas que se hicieron .
-- La última pauta se refiere al apego de fecha y hora, es decir, que hizo su trabajo en el tiempo establecido y lineamientos del proyecto, haciendo referencia a que si lo que se puso está de acuerdo con lo que se pide en el proyecto.
 - Como pauta extra se podemos tomar en cuenta el número de ocasiones en las que alguien ayudó a otros en sus responsabilidades o tareas 
+
+Tareas / Puntos:
+-	Crear repositorio - *1 punto*
+-	Documentación - *2 puntos*
+-	Definir objetivos - *1 punto*
+-	Definir elementos innovadores - *1 punto*
+-	Redacción de requerimientos - *1 punto*
+-	Redacción de proceso de desarrollo - *2 puntos*
+-	Entrevista para historias de usuario - *1 punto*
+-	Redacción de historias de usuario - *1 punto*
+-	Redacción de casos de uso - *2 puntos*
+-	Diagrama de casos de uso - *1 punto*
+-	Redacción de bitácoras - *1 punto*
+-	Calendarización - *1 punto*
+-	Investigación de las carreras de FMAT - *1 punto*
+-	Investigación de las organizaciones de FMAT - *1 punto*
+
 
 Tomando en cuenta, las siguientes métricas, podemos hacer los siguientes porcentajes respecto a la primera entrega del proyecto:
 
@@ -25,5 +40,6 @@ Isaac estuvo dirigiendo casi todo acerca del proyecto, estuvo a cargo de las his
 Jorge hizo algunas correcciones y solo estuvo en los requerimientos, aunque él tuvo contacto con los usuarios y clientes potenciales.
 
 Daniela estuvo a cargo de los inicios de la investigación, de la bitácora, y siempre estuvo viendo cómo agilizar los procesos de trabajo, solo hizo 2 commits
+
 Oscar se limitó a hacer los casos de uso y el diagrama. 
 
