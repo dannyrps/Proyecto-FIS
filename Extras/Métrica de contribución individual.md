@@ -27,10 +27,7 @@ Tareas / Puntos:
 
 Tomando en cuenta, las siguientes métricas, podemos hacer los siguientes porcentajes respecto a la primera entrega del proyecto:
 
-- Belen Couoh 26%
-- Isaac Ehuan 26%
-- Jorge Baas 22%
-- Daniela Pérez 16%
-- Oscar Pereira 10% 
+
+[Ver porcentajes de la métrica](https://docs.google.com/spreadsheets/d/1wgpP8G_OLrjXBsB441RJYLcOzova0m70UkWFyIS6mnc/edit?usp=sharing)
 
 
