@@ -27,6 +27,11 @@ Tareas / Puntos:
 
 Tomando en cuenta, las siguientes métricas, podemos hacer los siguientes porcentajes respecto a la primera entrega del proyecto:
 
+- Baas Cab Jorge Miguel *16.70%*
+- Couoh Chan Maria Belen *28.42%*
+- Ehuan Avila Isaac Mauricio *28.42%*
+- Perera Huchim Oscar *11.71%*
+- Pérez Sauza Daniela Regina *14.74%*
 
 [Ver porcentajes de la métrica](https://docs.google.com/spreadsheets/d/1wgpP8G_OLrjXBsB441RJYLcOzova0m70UkWFyIS6mnc/edit?usp=sharing)
 
