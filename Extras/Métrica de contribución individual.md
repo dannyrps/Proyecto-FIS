@@ -33,13 +33,4 @@ Tomando en cuenta, las siguientes métricas, podemos hacer los siguientes porcen
 - Daniela Pérez 16%
 - Oscar Pereira 10% 
 
-Belen estuvo a cargo de varias partes de la documentación, como en la de herramientas procesos, etc, además que en las gráficas fue la de más porcentaje y en 2 ocasiones ayudó a otros.
-
-Isaac estuvo dirigiendo casi todo acerca del proyecto, estuvo a cargo de las historias de usuario y puso partes como lo innovador, hizo 11 commits pero se vé con el número de líneas es mayor, además que ayudó en 5 ocasiones a los demás, además que hizo la presentación.
-
-Jorge hizo algunas correcciones y solo estuvo en los requerimientos, aunque él tuvo contacto con los usuarios y clientes potenciales.
-
-Daniela estuvo a cargo de los inicios de la investigación, de la bitácora, y siempre estuvo viendo cómo agilizar los procesos de trabajo, solo hizo 2 commits
-
-Oscar se limitó a hacer los casos de uso y el diagrama. 
 
