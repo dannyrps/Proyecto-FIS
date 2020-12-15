@@ -1,18 +1,18 @@
 # **InformaWeb**
-"Sistema de información" (página web informativa) 
+"Information system" (informative web page) 
 
 
-# Integrantes:
+# Members:
   - Baas Cab Jorge Miguel
   - Couoh Chan Maria Belen 
   - Ehuan Avila Isaac Mauricio
   - Perera Huchim Oscar
   - Pérez Sauza Daniela Regina
   
-# Propósito:
-Crear una página web que funcione como un sistema de información, el cual redactará acerca de las diferentes licenciaturas que se imparten en la facultad de matemáticas de la Universidad Autónoma de Yucatán, así como las diversas organizaciones, como sus actividades de estas, que se encuentran dentro de la facultad.
+# Purpose:
+Creating a web page that works as an information system, which will have information about the different careers taught in the math faculty of the "Universidad Autónoma de Yucatán", as well as the different organizations, and their activities, that exist in the faculty.
 
-# Público al que se dirige:
-Especialmente va dirigido a jóvenes interesados en ingresar al FMAT y los alumnos que desean hacer un cambio de carrera que se encuentre en la misma facultad, que están en búsqueda de información sobre las carreas y actividades que esta facultad ofrece.
+# Targeted users:
+It's targeted to people interested in entering the faculty and students that are looking to change careers, and are trying to find information about the careers and activities the faculty offers.
 
 
