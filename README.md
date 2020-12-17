@@ -1,5 +1,5 @@
 # **InformaWeb**
-"Information system" (informative web page) 
+"Information system" (informative website) 
 
 
 # Members:
