@@ -4,25 +4,25 @@ This document shows the different characteristics taken in count to messure the 
 
 The process of the contribution metrics will be of 100% among all members for each submission which is why there will be three different percentages that will be averaged at the end. This because there will be some parts in which some members will contribute more than others.
 
-- La primera pauta de la métrica hace referencia al número de responsabilidades que se les dió a cada integrante.
-- La segunda pauta trata sobre el número de tareas que se hizo cada integrante.
-- Como pauta extra se podemos tomar en cuenta el número de ocasiones en las que alguien ayudó a otros en sus responsabilidades o tareas 
+- The first guideline of the metric talks about de numer of tasks that was given to each member.
+- The second guideline talks about the number of tasks donde by each member.
+- As an extra guideline we could take in count the number of times a member help another one with their tasks and responsabilities. 
 
-Tareas / Puntos:
--	Crear repositorio - *1 punto*
--	Documentación - *2 puntos*
--	Definir objetivos - *1 punto*
--	Definir elementos innovadores - *1 punto*
--	Redacción de requerimientos - *1 punto*
--	Redacción de proceso de desarrollo - *2 puntos*
--	Entrevista para historias de usuario - *1 punto*
--	Redacción de historias de usuario - *1 punto*
--	Redacción de casos de uso - *2 puntos*
--	Diagrama de casos de uso - *1 punto*
--	Redacción de bitácoras - *1 punto*
--	Calendarización - *1 punto*
--	Investigación de las carreras de FMAT - *1 punto*
--	Investigación de las organizaciones de FMAT - *1 punto*
+Tasks / Points:
+-	Creating the repository - *1 point*
+-	Documentation - *2 points*
+-	Definir objetivos - *1 point*
+-	Definir elementos innovadores - *1 point*
+-	Redacción de requerimientos - *1 point*
+-	Redacción de proceso de desarrollo - *2 points*
+-	Entrevista para historias de usuario - *1 point*
+-	Redacción de historias de usuario - *1 point*
+-	Redacción de casos de uso - *2 points*
+-	Diagrama de casos de uso - *1 point*
+-	Redacción de bitácoras - *1 point*
+-	Calendarización - *1 point*
+-	Investigación de las carreras de FMAT - *1 point*
+-	Investigación de las organizaciones de FMAT - *1 point*
 
 
 Tomando en cuenta, las siguientes métricas, podemos hacer los siguientes porcentajes respecto a la primera entrega del proyecto:
