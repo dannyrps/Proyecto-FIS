@@ -1,8 +1,8 @@
-# Métrica de Contribución Individual
+# Individual contribution metrics
 
-Este documento muestra las diferentes características que se toman en cuenta para medir el porcentaje de contribución individual de cada integrante del equipo de proyecto.
+This document shows the different characteristics taken in count to messure the pecentage of the individual contribution for each team member.
 
-El proceso de métrica de contribución será de un 100% entre todos para cada entrega, por lo que se harán 3 porcentajes, los cuales se van a promediar al final. Esto debido a que habrán muchas partes en las que ciertos integrantes aportarán más que otros.
+The process of the contribution metrics will be of 100% among all members for each submission which is why there will be three different percentages that will be averaged at the end. This because there will be some parts in which some members will contribute more than others.
 
 - La primera pauta de la métrica hace referencia al número de responsabilidades que se les dió a cada integrante.
 - La segunda pauta trata sobre el número de tareas que se hizo cada integrante.
